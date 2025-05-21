@@ -1,7 +1,7 @@
 import MessageList from './MessageList';
 import UploadStatus from './UploadStatus';
 import ChatInput from './ChatInput';
-import { handleSend, handleFileUpload } from '../utils/services';
+import { handleSend, handleFileUpload } from '../utils/services.jsx';
 
 
 
